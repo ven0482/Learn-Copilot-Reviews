@@ -468,6 +468,14 @@ button {
   font-size: 0.85rem;
 }
 
+.announcement-banner {
+  background-color: #2e7d32;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
   margin-top: 20px;
